@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v8ox88eox-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/v8ox88eox-nodejs
